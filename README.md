@@ -1,0 +1,2 @@
+# Scraper-projekt
+Volební scraper
